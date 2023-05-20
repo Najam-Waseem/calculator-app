@@ -1,0 +1,45 @@
+h1{
+    margin-left: 550px;
+}
+ table{
+    margin: auto;
+    margin-top: 5px;
+}
+td{
+    padding: 10px;
+    
+}
+.digit{
+    background: orange;
+    font-size: 20px;
+    padding: 20px;
+
+    }
+.container{
+        text-align: center;
+        margin-top:23px;
+}
+.scr{
+    border-radius: 21px;
+    border: 5px solid #244624;
+    font-size:34px;
+    height: 65px;
+    width: 356px;
+    margin-left:440px;
+}
+.equalsbtn{
+ background: gray;
+ font-size: 20px;
+ padding: 20px;
+}
+.func{
+    background: grey;
+    font-size: 20px;
+    padding: 20px;
+}
+.funcs{
+    background: grey;
+    font-size: 20px;
+    padding: 20px;
+}
+
